@@ -1,0 +1,279 @@
+{
+  "whitePatterns": [
+    {
+      "title": "archive.org",
+      "pattern": "*.archive.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "telegram",
+      "pattern": "telegram\\.org|telegram\\.me|t\\.me",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "twitter",
+      "pattern": "twitter.com|twimg.com|^t\\.co$",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "facebook",
+      "pattern": "facebook\\.com|\\.fbcdn\\.net",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "youtube",
+      "pattern": "youtube\\.com|ytimg\\.com|googlevideo\\.com|ggpht\\.com|youtu\\.be",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "bbc",
+      "pattern": "bbc\\.com|bbc\\.in|bbcpersian\\.com|bbc\\.co\\.uk|bbci\\.co\\.uk",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "cnn",
+      "pattern": "*.cnn.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "hra-news",
+      "pattern": "*.hra-news.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "rfi.fr",
+      "pattern": "*.rfi.fr",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "radiozamaneh",
+      "pattern": "*.radiozamaneh.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "radiofarda",
+      "pattern": "radiofarda\\.com|\\.rferl\\.org",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "alarabiya.net",
+      "pattern": "alarabiya\\.net|ara\\.tv",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "blogspot",
+      "pattern": "blogspot\\.com|blogger\\.com",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "google",
+      "pattern": ".*\\.googleapis\\.com",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "cloudfront",
+      "pattern": "*.cloudfront.net",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "netflix",
+      "pattern": "netflixtechblog\\.com|principlesofchaos\\.org|techblog\\.netflix\\.com",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "medium",
+      "pattern": "*.medium.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "github",
+      "pattern": "*.github.io",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "gotoacademy",
+      "pattern": "**.gotoacademy.*",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "spotify",
+      "pattern": "*spotify.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "slite",
+      "pattern": "*.slite.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "crisp.se",
+      "pattern": "*.crisp.se",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "docker",
+      "pattern": "hub.docker.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "datastax",
+      "pattern": "docs.datastax.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "asana",
+      "pattern": "*.asana.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "disqus",
+      "pattern": "*.disqus.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "goodreads",
+      "pattern": "*.gr-assets.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "behdad",
+      "pattern": "*.behdad.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "misc",
+      "pattern": "\\.giphy\\.com|\\.udimg\\.com",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "fastly",
+      "pattern": "*.fastly.net",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "urbandictionary",
+      "pattern": "api\\.urbandictionary\\.com|urbandictionary\\.store",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "lenovo",
+      "pattern": "*.lenovo.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "stackshare.io",
+      "pattern": "*.stackshare.io",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "trello",
+      "pattern": "*.trello.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "pythonhosted.org",
+      "pattern": "*.pythonhosted.org",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "programiz.com",
+      "pattern": "*.programiz.com",
+      "type": 1,
+      "protocols": 1,
+      "active": true
+    }
+  ],
+  "blackPatterns": [
+    {
+      "title": "local hostnames (usually no dots in the name). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+      "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "local subnets (IANA reserved address space). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+      "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    },
+    {
+      "title": "localhost - matches the local host optionally prefixed by a user:password authentication string and optionally suffixed by a port number. The entire local subnet (127.0.0.0/8) matches. Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+      "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$",
+      "type": 2,
+      "protocols": 1,
+      "active": true
+    }
+  ]
+}
